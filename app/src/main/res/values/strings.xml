@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">We Care</string>
+
+
+    <string-array name="tasks">
+        <item>Change Bedsheets</item>
+        <item>Update latest report of James</item>
+        <item>Take Blood Sample</item>
+    </string-array>
+
+</resources>
